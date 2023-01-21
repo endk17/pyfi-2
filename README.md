@@ -1,2 +1,6 @@
 # pyfi-2
-Options volatility cones, market mispricing &amp; strategy evaluation 
+
+- Options volatility cones
+- Market mispricing
+- Strategy evaluation
+- Hurst Exponent
